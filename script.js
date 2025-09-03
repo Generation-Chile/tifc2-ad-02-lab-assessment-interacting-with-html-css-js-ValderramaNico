@@ -11,6 +11,6 @@ document.getElementById("orange").style.color = "orange"
 //     this.style.color = 'brown';
 // });
 
-document.getElementsByTagName("h5")[0].addEventListener('click', function() {
+document.getElementById("colorChangeText").addEventListener('click', function() {
     this.style.color = 'brown';
 });
