@@ -3,3 +3,24 @@ html {
     width: 100%;
   }
   
+  h1 {
+    color: green;
+  }
+
+  .blue {
+    color: blue;
+  }
+
+  #red {
+    color: red;
+  }
+
+  img {
+    width: 200px;
+    height: auto;
+  }
+
+  #colorChangeText {
+    cursor: pointer;
+    font-size: 40px;
+  }
